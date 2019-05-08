@@ -1,4 +1,4 @@
-baseURL = "https://recfloyd.github.io/"
+baseURL = "https://recfloyd.github.io/tale"
 languageCode = "zh-cn"
 title = "第二十三号咖啡杯"
 buildDrafts = true
