@@ -9,7 +9,7 @@ canonifyurls = true
 theme = "hugo-dusk"
 
 [author]
-  name = ""
+  name = "弗洛伊德飞"
 
 SectionPagesMenu = "main"
 
@@ -24,22 +24,9 @@ pygmentsCodeFences = true
   identifier = "post"
   url = "/post/"
 
-[[menu.main]]
-  name = "Tags"
-  weight = -110
-  identifier = "tag"
-  url = "/tags/"
-
 [params.meta]
   keywords = "blog, tech"
   description = "Personal blog."
-
-[params]
-  github = "github id"
-  gitlab = "gitlab id"
-  twitter = "twitter id"
-  linkedin = "linkedin id"
-  email = "myemail"
 
 [params.colors]
   # hugo-dusk colors
