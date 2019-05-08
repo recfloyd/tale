@@ -5,7 +5,7 @@ buildDrafts = true
 defaultContentLanguage = "zh-cn"
 hasCJKLanguage = true
 publishDir = "docs"
-
+canonifyurls = true
 theme = "hugo-dusk"
 
 [author]
