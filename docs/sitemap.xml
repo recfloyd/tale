@@ -4,19 +4,344 @@
   
   <url>
     <loc>https://recfloyd.github.io/tale/post/</loc>
-    <lastmod>2008-06-27T14:15:00+08:00</lastmod>
+    <lastmod>2014-09-08T22:38:00+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/</loc>
+    <lastmod>2014-09-08T22:38:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20140908/</loc>
+    <lastmod>2014-09-08T22:38:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20130119/</loc>
+    <lastmod>2013-01-19T22:49:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20110529/</loc>
+    <lastmod>2011-05-29T23:36:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20101025/</loc>
+    <lastmod>2010-10-25T20:47:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20100613/</loc>
+    <lastmod>2010-06-13T11:31:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20100414/</loc>
+    <lastmod>2010-04-14T15:07:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20100326/</loc>
+    <lastmod>2010-03-26T17:26:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20100323/</loc>
+    <lastmod>2010-03-23T10:03:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20100307/</loc>
+    <lastmod>2010-03-07T20:26:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20091021/</loc>
+    <lastmod>2009-10-21T16:17:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20090909/</loc>
+    <lastmod>2009-09-09T00:12:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20090827/</loc>
+    <lastmod>2009-08-27T17:16:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20090617/</loc>
+    <lastmod>2009-06-17T17:52:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20090514/</loc>
+    <lastmod>2009-05-14T00:32:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20090415/</loc>
+    <lastmod>2009-04-15T17:33:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20090325/</loc>
+    <lastmod>2009-03-25T09:52:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20090303/</loc>
+    <lastmod>2009-03-03T22:11:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20090124/</loc>
+    <lastmod>2009-01-24T10:09:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20090111/</loc>
+    <lastmod>2009-01-11T00:19:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20081231/</loc>
+    <lastmod>2008-12-31T22:25:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20081220/</loc>
+    <lastmod>2008-12-20T22:17:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20081203/</loc>
+    <lastmod>2008-12-03T12:15:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20081201/</loc>
+    <lastmod>2008-12-01T22:36:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20081125/</loc>
+    <lastmod>2008-11-25T22:36:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20081118/</loc>
+    <lastmod>2008-11-18T13:41:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20081116/</loc>
+    <lastmod>2008-11-16T23:06:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20081109/</loc>
+    <lastmod>2008-11-09T18:52:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20081102/</loc>
+    <lastmod>2008-11-02T21:23:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20081020/</loc>
+    <lastmod>2008-10-20T22:37:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20081007/</loc>
+    <lastmod>2008-10-07T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080928_2/</loc>
+    <lastmod>2008-09-28T21:56:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080928/</loc>
+    <lastmod>2008-09-28T10:04:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080916/</loc>
+    <lastmod>2008-09-16T18:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080914/</loc>
+    <lastmod>2008-09-14T22:05:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080831/</loc>
+    <lastmod>2008-08-31T21:31:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080830/</loc>
+    <lastmod>2008-08-30T17:36:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080819/</loc>
+    <lastmod>2008-08-19T17:15:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080818/</loc>
+    <lastmod>2008-08-18T11:47:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080817/</loc>
+    <lastmod>2008-08-17T21:20:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080816/</loc>
+    <lastmod>2008-08-16T20:38:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080813_2/</loc>
+    <lastmod>2008-08-13T18:06:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080813/</loc>
+    <lastmod>2008-08-13T12:53:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080812/</loc>
+    <lastmod>2008-08-12T12:36:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080811/</loc>
+    <lastmod>2008-08-11T13:28:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080807/</loc>
+    <lastmod>2008-08-07T14:42:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080803/</loc>
+    <lastmod>2008-08-03T14:01:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080730/</loc>
+    <lastmod>2008-07-30T14:31:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080725_2/</loc>
+    <lastmod>2008-07-25T15:26:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080725_3/</loc>
+    <lastmod>2008-07-25T14:47:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080725/</loc>
+    <lastmod>2008-07-25T10:15:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080723_2/</loc>
+    <lastmod>2008-07-23T22:18:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080723/</loc>
+    <lastmod>2008-07-23T12:59:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080720/</loc>
+    <lastmod>2008-07-20T22:10:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080718/</loc>
+    <lastmod>2008-07-18T15:53:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080716/</loc>
+    <lastmod>2008-07-16T22:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080714_2/</loc>
+    <lastmod>2008-07-14T22:34:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080714/</loc>
+    <lastmod>2008-07-14T14:39:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080713/</loc>
+    <lastmod>2008-07-13T00:13:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080712/</loc>
+    <lastmod>2008-07-12T20:07:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080712_2/</loc>
+    <lastmod>2008-07-12T10:14:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080711/</loc>
+    <lastmod>2008-07-11T09:50:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080710/</loc>
+    <lastmod>2008-07-10T13:45:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080708/</loc>
+    <lastmod>2008-07-08T14:47:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080707/</loc>
+    <lastmod>2008-07-07T10:15:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://recfloyd.github.io/tale/post/20080627_2/</loc>
+    <lastmod>2008-06-27T15:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://recfloyd.github.io/tale/post/20080627/</loc>
     <lastmod>2008-06-27T14:15:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://recfloyd.github.io/tale/</loc>
-    <lastmod>2008-06-27T14:15:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
