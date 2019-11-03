@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>第二十三号咖啡杯</title>
@@ -6,10 +6,19 @@
     <description>Recent content on 第二十三号咖啡杯</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 08 Sep 2014 22:38:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2019 02:06:14 +0800</lastBuildDate>
     
 	<atom:link href="https://recfloyd.github.io/tale/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>焦虑</title>
+      <link>https://recfloyd.github.io/tale/post/20191104/</link>
+      <pubDate>Mon, 04 Nov 2019 02:06:14 +0800</pubDate>
+      
+      <guid>https://recfloyd.github.io/tale/post/20191104/</guid>
+      <description>意料之中的失眠. 最近的两个月以来,这样的情况不时发生.深夜两点,三点&amp;hellip;一直无法入睡,让我感觉自己的生命力在一点一点的耗尽. 这就</description>
+    </item>
     
     <item>
       <title>累</title>
