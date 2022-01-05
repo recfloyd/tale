@@ -5,10 +5,6 @@
     <link>https://recfloyd.github.io/tale/tags/</link>
     <description>Recent content in Tags on 第二十三号咖啡杯</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    
-	<atom:link href="https://recfloyd.github.io/tale/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>zh-cn</language><atom:link href="https://recfloyd.github.io/tale/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
